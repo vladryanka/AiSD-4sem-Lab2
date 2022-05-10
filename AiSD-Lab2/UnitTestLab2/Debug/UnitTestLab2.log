@@ -1,0 +1,3 @@
+﻿  UnitTestLab2.cpp
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\AiSD-Lab2\UnitTestLab2\pch.h(260): warning C4715: AlgorithmHaffman::findAndGet: значение возвращается не при всех путях выполнения
+  UnitTestLab2.vcxproj -> C:\Users\Я\Desktop\вуз\4 семестр\АиСД\AiSD-Lab2\Debug\UnitTestLab2.dll
